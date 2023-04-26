@@ -38,6 +38,8 @@
   <a href="https://app.circleci.com/insights/github/angular/angular/workflows/default_workflow?branch=main">
     <img src="https://dl.circleci.com/insights-snapshot/gh/angular/angular/main/default_workflow/badge.svg" alt="InsightsSnapshot" />
   </a>
+  <i>El sistema de riego con energía solar es una alternativa novedosa, sostenible y eficiente dentro de los equipos de irrigación. El sistema de riego solar es accionado mediante una bomba, un inversor y panales solares fotovoltaicos. Es utilizado principalmente en lugares donde se dificulta el uso de energía eléctrica o acceso a combustible. Adicional, en lugares de climas soleados y cálidos donde pueda haber un aprovechamiento de la radiación del sol en forma directa. Las principales aplicaciones son en invernaderos, viveros, como aprovechamiento para bebederos y llenado de tanques. Favorece a la industria agrícola, civil y de uso doméstico por la extracción del agua a través de una bomba sumergible en la mayoría de los casos.</i>
+  <br>
 </p>
 
 <hr>
