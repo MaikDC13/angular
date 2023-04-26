@@ -1,4 +1,6 @@
 <h1 align="center">Sistema de Riego Automatico.</h1>
+<i>Grupo: Duban castiblanco, maikol delgado,nicolas garcia, maira morales, karen junco .</i>
+  <br>
 
 <p align="center">
   <img src="https://github.com/MaikDC13/angular/blob/main/docs/images/images.png" width="500px" height="500px"/>
