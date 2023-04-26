@@ -1,7 +1,7 @@
 <h1 align="center">Sistema de Riego Automatico.</h1>
 
 <p align="center">
-  <img src="![images](https://user-images.githubusercontent.com/124276014/234586052-4ce4349c-9844-4892-a766-b8274967009e.png)" width="120px" height="120px"/>
+  <img src="https://github.com/MaikDC13/angular/blob/main/docs/images/images.png" width="500px" height="500px"/>
   <br>
   <i>Este proyecto propone el diseño de un sistema de riego automatizado y alimentado con energía solar.</i>
   <br>
