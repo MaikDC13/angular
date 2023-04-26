@@ -1,15 +1,14 @@
-<h1 align="center">Angular - The modern web developer's platform.</h1>
+<h1 align="center">Sistema de Riego Automatico.</h1>
 
 <p align="center">
-  <img src="aio/src/assets/images/logos/angular/angular.png" alt="angular-logo" width="120px" height="120px"/>
+  <img src="![images](https://user-images.githubusercontent.com/124276014/234586052-4ce4349c-9844-4892-a766-b8274967009e.png)" width="120px" height="120px"/>
   <br>
-  <i>Angular is a development platform for building mobile and desktop web applications
-    <br> using Typescript/JavaScript and other languages.</i>
+  <i>Este proyecto propone el diseño de un sistema de riego automatizado y alimentado con energía solar.</i>
   <br>
 </p>
 
 <p align="center">
-  <a href="https://www.angular.io"><strong>www.angular.io</strong></a>
+  <a href="    "><strong>www.angular.io</strong></a>
   <br>
 </p>
 
